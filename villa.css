@@ -1,0 +1,6 @@
+#canvasCerdo {
+    background-color: transparent;
+    position: absolute;
+    z-index: 1;
+    left: 7px;
+}
